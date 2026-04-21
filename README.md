@@ -1,2 +1,14 @@
-# Smart-Eco-Solution-Bootstrap-mini-project-
-Smart Eco Solutions is a fully responsive eco-friendly website developed using HTML, Bootstrap, CSS, and JavaScript. The project focuses on promoting sustainable living and environmental awareness through a clean and modern user interface
+# Smart Eco Solutions
+
+## Description
+This project is about promoting eco-friendly and sustainable living through a modern and responsive website. It is created as a final project using HTML, Bootstrap, CSS, and JavaScript.
+
+## Features
+- Responsive design for mobile, tablet, and desktop
+- Navigation bar for easy access to sections
+- About section explaining the purpose of the website
+- Eco Initiatives section using Bootstrap cards
+- Clean and structured footer with links and contact info
+
+## How to Run
+Open index.html in your browser
