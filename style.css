@@ -1,0 +1,110 @@
+/*universal*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 15px;
+}
+
+section img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*banner*/
+.banner {
+    background: url('../image/ochir-erdene-oyunmedeg-LmyPLbbUWhA-unsplash.jpg');
+    min-height: calc(100vh - 100px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*footer*/
+.logo {
+    display: block;
+    width: 120px;
+}
+
+.footer .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer .col-lg-3 {
+    width: 25%;
+    padding: 0 20px;
+}
+
+.footer-links {
+    display: flex;
+}
+
+.footer-links li {
+    margin-right: 12px;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.footer-links li a {
+    display: block;
+    color: #198754;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 12px;
+}
+
+ul li a {
+    display: block;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.footer {
+    padding: 60px 0;
+    background-color: #0d6212;
+}
+
+.card {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
