@@ -32,7 +32,7 @@ a {
 
 /*banner*/
 .banner {
-    background: url('../image/ochir-erdene-oyunmedeg-LmyPLbbUWhA-unsplash.jpg');
+    background: url('../ochir-erdene-oyunmedeg-LmyPLbbUWhA-unsplash.jpg');
     min-height: calc(100vh - 100px);
     background-size: cover;
     background-repeat: no-repeat;
